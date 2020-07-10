@@ -1,0 +1,130 @@
+
+body {background : #4494f3; color: #fff; padding : 0; margin : 0; font-family: "Roboto Condensed", Arial, sans-serif; font-weight:600;}
+
+h1 { font-size:60px; margin:0;}
+h2 { font-size:25px; color: #ff704c; margin:0; font-weight:normal;}
+h3 { font-size : 40px; margin : 10px 0; line-height : 130%; font-weight:300;}
+h4 {font-size:30px; margin:10px 0; opacity:0.8;}
+
+p {font-size:18px; opacity:0.7;}
+
+hr {border: 0; height: 1px; margin:20px 0; background: rgba(0,0,0,0.1);}
+
+header {background:#4494f3; overflow:hidden;}
+header .container {padding:0; margin:0 auto;}
+
+.u-bg-orange h1 {color:#fff;}
+.u-bg-orange h2 {color:#000; opacity:0.5;}
+.u-bg-orange h3 {color:#fff; opacity:1;}
+.u-bg-orange h4 {color:#fff;}
+
+.sectiontext {text-align: center; margin-bottom:70px;}
+.privacy { color: #333; }
+.privacy h4 { font-size: 32px; margin-top: 30px; margin-bottom: 20px; }
+.privacy a { color: #4494f3; }
+
+
+.avail { font-size : 20px; color: rgba(255, 255, 255, 0.6); }
+
+.container { clear: both; width:95%; max-width: 1150px; min-width: 320px; margin: 0 auto; }
+
+.logo img {max-width:50%;}
+
+.intro ul {list-style: none; margin:20px 0; padding:0; font-size:18px; text-align: left; opacity:0.8;}
+.intro ul li {margin:0; padding:0 20px; display:inline-block; border-left:1px solid rgba(0,0,0,0.1);}
+.intro ul li:first-of-type {padding-left:0; border-left:0;}
+
+.deviceimages {width:100%; list-style: none; margin:0; padding:0;}
+.deviceimages li {display: inline-block; margin:0; padding:0; text-align: center;}
+.deviceimages-3 li {width:33%;}
+.deviceimages-4 li {width:24%;}
+.deviceimages img {height:auto;}
+.deviceimages li img {width:250px;}
+
+.u-move-up {margin-top:-100px;}
+.u-move-upmore {margin-top:-120px;}
+.u-fullwidth {width:100%; height:auto;}
+.u-shadow {-webkit-filter: drop-shadow(0 30px 30px #000); filter: drop-shadow(0 30px 30px #000);}
+.u-colcenter {text-align: center;}
+.u-bg-white {background:#fff; color:#333;}
+.u-bg-blue {background:#4494f3; color:#fff;}
+.u-bg-grey {background:#eee; color:#333; text-align:center;}
+.u-vertpadding-30 .container {padding:30px 0;}
+.u-vertpadding-50 .container {padding:50px 0;}
+.u-vertpadding-150 .container {padding:150px 0;}
+
+.buttondownload {max-width:30%; margin-top:40px; -webkit-filter: drop-shadow(0 20px 20px rgba(0,0,0,0.5)); filter: drop-shadow(0 20px 20px rgba(0,0,0,0.5));}
+
+.clearfix { clear: both; }
+
+.info-container { display: table; }
+
+.info { font-size : 28px; line-height : 130%; }
+.info span { font-size : 20px; color: rgba(255, 255, 255, 0.7); }
+
+ul { margin : 0; }
+li { margin-top : 0px; margin-bottom: 0px; line-height : 130%; }
+
+.finaldownload { margin : 0px auto 0 auto; text-align: center; color: #000; }
+.finaldownload img { width : 300px; }
+.finaldownload .buttondownload {margin-top:10px;}
+
+.android { text-align : center; margin : 10px 0 0 0; }
+
+.download { margin : 20px auto 100px auto; text-align: center; }
+.download img { width : 200px; }
+
+a { color : rgba(255, 255, 255, 0.8); }
+
+footer { text-align : center; margin: 30px auto 0 auto; padding-top : 20px; font-size : 13px; font-weight : 100; }
+footer .container {padding:30px 0; }
+
+footer a {color:#fff; text-decoration: underline;}
+footer a:hover {color:#fff; opacity:0.8;}
+
+footer ul {list-style: none; margin:20px 0; padding:0; font-size:18px; opacity:0.8;}
+footer ul li {margin:0; padding:0 20px; display:inline-block; border-left:1px solid rgba(0,0,0,0.1);}
+footer ul li:first-of-type {padding-left:0; border-left:0;}
+
+.upsell { text-align : center; background: rgba(0, 0, 0, 0.2); border-radius: 8px; margin: 40px auto; padding: 20px 10px; font-family : Helvetica, Arial, sans-serif; font-size : 16px; font-weight : 100; }
+.upsell a { font-weight: bold; color: #fff; }
+
+#privacy { text-align: left; font-family: Helvetica, arial, sans-serif; font-weight: normal; font-size : 16px; line-height : 26px; margin-top : 40px; }
+#privacy h3 { font-size : 22px; margin : 20px 0; padding-top : 20px; border-top : 1px solid rgba(255, 255, 255, 0.2); }
+
+#google_translate_element { margin-top : 30px; }
+
+@media (max-width:768px) {
+
+    h3 {font-size:30px; text-align: center;}
+    h4 {font-size:24px; text-align: center;}
+
+    .container {width:85%;}
+    .hero .container {min-height:300px;}
+    .hero h3 {display:none;}
+    .logo {text-align: center;}
+    .logo img { max-width:90%;}
+    .intro ul {text-align: center;}
+    .intro ul li {width:100%; border:0; padding:0; margin:0;}
+
+    .u-vertpadding-30 .container {padding:30px 0;}
+    .u-vertpadding-50 .container {padding:50px 0;}
+    .u-vertpadding-150 .container {padding:50px 0;}
+
+    .deviceimages-3 li {width:32%;}
+    .deviceimages-4 li {width:49%;}
+    .deviceimages li img {width:90%; max-width:90%;}
+
+    .u-fullwidth {width:70%; margin-bottom:40px; margin-left:auto; margin-right:auto;}
+
+    .u-move-up {margin-top:30px;}
+    .u-move-upmore {margin-top:30px;}
+
+    .buttondownload {max-width:50%; text-align: center; margin-left:auto; margin-right:auto;}
+    .downloadinitial { text-align: center; }
+
+    footer ul li {width:100%; padding:0; margin:0; border:0;}
+
+    .hero-image img { max-width: 50%; margin-top: 30px; }
+
+}

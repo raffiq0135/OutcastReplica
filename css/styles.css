@@ -1,0 +1,106 @@
+.title{
+    background-color: #4494f3;
+    color: white;
+}
+.applogo{
+    width: 50%;
+}
+.demo-hero{
+    width: 100%;
+}
+h3 {
+    font-size: 40px;
+    margin: 10px 0;
+    line-height: 130%;
+    font-weight: normal;
+    font-family: inherit;
+}
+h4{
+    font-size: 30px;
+    margin: 10px 0;
+    opacity: 0.8;
+    font-weight: 450;
+    line-height: 1;
+}
+.appstore{
+    width: 30%;
+    padding-top: 4rem;
+}
+.appstore2{
+    width: 30%;
+    padding: 0;
+}
+
+
+.box-1{
+    padding: 04% 08% 03% 08%;
+}
+.box-2{
+    background-color: white;
+    padding: 10% 08% 10% 08%; 
+}
+.box-3{
+    background-color: #4494f3;
+    color: white;
+    padding: 10% 08% 10% 08%;
+}
+.box-4{
+    padding: 10% 08% 10% 08%;
+}
+.box-5{
+    background: #eee;
+    color: #333;
+    padding: 10% 08% 10% 08%;   
+}
+.box-6{
+    padding: 10% 08% 10% 08%;
+}
+.box-2-1{
+    text-align: center;
+    margin-bottom: 05%;
+}
+.box-3-1{
+    text-align: center;
+    margin-bottom: 05%;
+}
+.box-4-1{
+    margin-bottom: 05%;
+}
+.box-5-1{
+    text-align: center;
+    margin-bottom: 05%;
+}
+.box-6-1{
+    text-align: center;
+}
+.img1{
+width: 75%;
+padding-left: 10%;
+}
+.img2{
+    width: 100%;
+    padding-left: 10%;
+}
+.headphones{
+    width: 100%
+}
+.box-4-1 h3{
+    padding-top: 12%;
+}
+.copyright{
+    font-size: 1rem;
+    padding: 20px 0;
+    opacity: 0.8;
+}
+.foot{
+    background-color: #4494f3;
+    color: #fff;
+    text-align: center;
+    padding: 50px 0 20px 0;
+    font-size: 1.25rem;
+}
+.box-foot{
+    margin: 10px 20px;
+    color: white;
+    text-decoration: underline;
+}
